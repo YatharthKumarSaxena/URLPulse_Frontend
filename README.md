@@ -6,8 +6,8 @@ The application provides a dashboard for submitting asynchronous batches, monito
 
 ## Live Application
 
-* **Frontend:** `[<FRONTEND_DEPLOYED_URL>](https://urlpulse-frontend.onrender.com/)`
-* **Backend API:** `[<BACKEND_DEPLOYED_URL>](https://urlpulse-backend.onrender.com/)`
+* **Frontend:** `https://urlpulse-frontend.onrender.com/`
+* **Backend API:** `https://urlpulse-backend.onrender.com/`
 
 ---
 
